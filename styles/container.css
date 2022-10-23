@@ -1,0 +1,12 @@
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.container_gray {
+  background-color: #F1F1F1;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-radius: 10px;
+}

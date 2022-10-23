@@ -1,0 +1,13 @@
+.result {
+  padding: 25px 0 50px;
+}
+
+.result__list {
+  padding-left: 25px;
+  margin-bottom: 30px;
+  list-style-type: "— ";
+}
+
+.result__item:not(:last-of-type) {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+.from-to__paragraph:nth-of-type(odd) {
+  margin-bottom: 115px;
+}
+
+.from-to__paragraph:nth-of-type(even) {
+  padding-right: 600px;
+}
+
+.from-to__image:nth-of-type(odd) {
+  float: left;
+  margin-right: 30px;
+}
+
+.from-to__image:nth-of-type(even) {
+  float: right;
+}
+
+.from-to__image:last-of-type {
+  margin-bottom: 0;
+}

@@ -1,0 +1,13 @@
+.last-element__figure {
+  margin-bottom: 30px;
+  border: 2px solid black;
+}
+
+.last-element__figure-image {
+  margin-bottom: 15px;
+}
+
+.last-element__figcaption {
+  padding: 0px 30px 15px;
+  color: #5E5E5E;
+}
