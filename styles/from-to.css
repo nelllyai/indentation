@@ -3,7 +3,7 @@
 }
 
 .from-to__paragraph:nth-of-type(even) {
-  padding-right: 600px;
+  max-width: 480px;
 }
 
 .from-to__image:nth-of-type(odd) {

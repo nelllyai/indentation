@@ -1,7 +1,7 @@
-.content {
-  padding: 25px 0;
-}
-
 .content__item {
   color: #02535F;
+}
+
+.content__anchor {
+  border-bottom: 2px solid black;
 }
